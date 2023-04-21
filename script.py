@@ -1,1 +1,1 @@
-print("I woke up in a new bugatti!!")
+print("autism i get i create when this app")
